@@ -27,27 +27,4 @@ Make sure to have the filter also flag it as spam and delete it.
 
 ## What to do if you find your company on this list ##
 
-1. Stop shitting in the inboxes of busy people.
-2. Leave and go work for a company with some ethics.
-
-###  And finally ###
-
-If you actually use any of the companies in this list, you might want to do two things...
-
-1. Remove them from your filter
-2. Think about using a different recruitment company that doesn't spam people.
-
-#### To do ####
-
-1. Web interface for people not familiar with Git
-2. Automatic subscription to the filter?
-
-#### Honourable Mention ####
-
-You might also be interested in [this list](https://github.com/alexmbird/uk-it-recruiter-domains) maintained by Alex Hewson.
-
-#### Analytics ####
-
-Yes, I am tracking you.
-
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/5ad74574512785c24fc63d7448ab2be9 "githalytics.com")](http://githalytics.com/drcongo/spammy-recruiters)
+1. Stop shitting in peoples inbox's, your reputation is important to your business.

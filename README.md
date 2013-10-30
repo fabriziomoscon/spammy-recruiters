@@ -16,19 +16,11 @@ A single Gmail filter can (at time of writing) accommodate 59 domains so you wil
 
 Install the Canned Response plugin from Google Labs (it's in `Settings --> Labs --> Canned Responses`: Enable it, then scroll to the bottom of the page and save your changes), create a new filter in your Gmail / Google Apps, paste this list into the `From` field, and set Gmail to automatically reply with something like this:
 
-    Hi.
+    Hi. 
 
-    It looks like you're a recruiter and you've sent me an unsolicited email.
-    This is an automated response to let you know that it has been flagged as
-    spam and deleted without me ever seeing it.
+    It looks like you're a recruiter and you've sent me an unsolicited email. This is an automated response to let you know that it has been flagged as spam and deleted without me ever seeing it. 
 
-    The same thing will happen to further emails you send me. If this is a 
-    mistake and you are actually someone I work with on our recruitment needs
-    then you'll have my mobile number, give me a call to let me know.
-
-    If you're wondering what this is all about, have a look here:
-
-    https://github.com/drcongo/spammy-recruiters
+    https://github.com/iancrowther/spammy-recruiters
 
 
 Make sure to have the filter also flag it as spam and delete it.
